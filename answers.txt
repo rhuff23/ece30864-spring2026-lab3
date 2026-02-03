@@ -1,0 +1,4 @@
+a. Agile development is good when requirements are often changing. 
+You can test as you go since development is split up into chunks (sprints).
+A potential con is that Agile relies heavily on the customer, which can be difficult if they are busy or unresponsive.
+Since requirements are changing, you might have to go back and change a previous program to update it.
