@@ -1,4 +1,5 @@
-a. Agile development is good when requirements are often changing. 
+a. Agile pro/con
+Agile development is good when requirements are often changing. 
 You can test as you go since development is split up into chunks (sprints).
 A potential con is that Agile relies heavily on the customer, which can be difficult if they are busy or unresponsive.
 Since requirements are changing, you might have to go back and change a previous program to update it.
@@ -11,3 +12,9 @@ c. 3 types of meetings
 1. Sprint Planning Meeting - determining which tickets should be completed in the sprint, time/ complexity in terms of story points, and assigning tickets.
 2. Standup Meeting - daily or almost daily meetings to discuss progress and blockers. 
 3. Sprint Retrospective - at the end of the sprint, discuss what was or was not completed during the sprint. 
+
+d. Work Item types
+Epic - large, complex piece of work split into smaller stories.
+Story - smaller component of an epic
+Bug - software issue/bug that needs to be fixed. 
+Task - Any piece of work that needs to be done
