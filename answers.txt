@@ -6,3 +6,8 @@ Since requirements are changing, you might have to go back and change a previous
 b. Scrum master vs Product owner
 A scrum master is responsible for planning sprints and coordinating standups and other meetings. 
 A product owner is responsible for directing the team, handling releases, and working with stakeholders. 
+
+c. 3 types of meetings
+1. Sprint Planning Meeting - determining which tickets should be completed in the sprint, time/ complexity in terms of story points, and assigning tickets.
+2. Standup Meeting - daily or almost daily meetings to discuss progress and blockers. 
+3. Sprint Retrospective - at the end of the sprint, discuss what was or was not completed during the sprint. 
